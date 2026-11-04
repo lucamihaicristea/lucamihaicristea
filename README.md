@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**lucamihaicristea/lucamihaicristea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm <u>Cristea Luca Mihai</u>
 
-Here are some ideas to get you started:
+I'm a **Systems Engineering ( AIASI )** student at the **Faculty of Automatic Control and Computers**, National University of Science and Technology POLITEHNICA Bucharest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about **IT & Cybersecurity**, I am an ambitious and driven tech enthusiast at the beginning of my journey, eager to continuously learn and build practical skills in systems and security.
+
+---
+
+## About Me
+
+- **Education:** 2nd Year Systems Engineering Student at UPB (ACS).
+- **Focus:** Computer Systems, Low-level Programming, Systems & Network Security.
+- **Current Goal:** Expanding my knowledge in network security, Linux administration, and cybersecurity fundamentals.
+
+---
+
+## Tech Skills
+
+- **Languages:** C/C++, Python, HTML, CSS
+- **Tools & Environments:** Linux / Bash, Git, VSCode, WSL, macOS
+
+---
