@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm <u>Cristea Luca Mihai</u>
+I'm <u>Cristea Luca Mihai</u>.
 
 I'm a **Systems Engineering ( AIASI )** student at the **Faculty of Automatic Control and Computers**, National University of Science and Technology POLITEHNICA Bucharest.
 
