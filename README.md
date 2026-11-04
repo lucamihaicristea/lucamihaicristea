@@ -18,7 +18,7 @@ Passionate about **IT & Cybersecurity**, I am an ambitious and driven tech enthu
 
 ## Tech Skills
 
-- **Languages:** C/C++, Python, HTML, CSS
+- **Languages:** C/C++, Python, HTML, CSS, MATLAB
 - **Tools & Environments:** Linux / Bash, Git, VSCode, WSL, macOS
 
 ---
