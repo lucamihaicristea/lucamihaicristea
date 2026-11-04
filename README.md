@@ -1,11 +1,12 @@
-# Hi there 👋
+<p align="center"> # Hi there 👋 
 
 I'm *Cristea Luca Mihai*.
 
 I'm a **Systems Engineering ( AIASI )** student at the **Faculty of Automatic Control and Computers**, National University of Science and Technology POLITEHNICA Bucharest.
-<p align="center">
+<p>
   <a href="mailto:lucaaaa.mihai@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D94A38?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/lucamihaicristea"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 </p>
 
 Passionate about **IT & Cybersecurity**, I am an ambitious and driven tech enthusiast at the beginning of my journey, eager to continuously learn and build practical skills in systems and security.
